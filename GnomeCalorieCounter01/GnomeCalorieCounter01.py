@@ -1,6 +1,3 @@
-import asyncio
-from math import floor
-import aiohttp
 from os.path import exists
 import requests
 
@@ -14,6 +11,8 @@ class Gnome:
 
 def gnomeSort(gnome):
     return gnome.CalorieCount
+
+print("Welcome to gnome snack calorie counter.")
 
 fileIsValid = False;
 inputFilePath = ""
