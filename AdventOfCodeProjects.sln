@@ -7,6 +7,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RockPaperSissorStrategyEval
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GnomeCalorieCounter01", "GnomeCalorieCounter01\GnomeCalorieCounter01.pyproj", "{013340E6-BF12-4B67-8290-DC86EDAD21AB}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RucksackInspector03", "RucksackInspector03\RucksackInspector03.pyproj", "{DD0B0879-1A63-484B-B877-0589230A6431}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,8 @@ Global
 		{08E8C032-7DE5-48F6-9084-4349C82B8C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{013340E6-BF12-4B67-8290-DC86EDAD21AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{013340E6-BF12-4B67-8290-DC86EDAD21AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD0B0879-1A63-484B-B877-0589230A6431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD0B0879-1A63-484B-B877-0589230A6431}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
