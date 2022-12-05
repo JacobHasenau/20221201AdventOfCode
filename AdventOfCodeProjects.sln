@@ -11,6 +11,10 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RucksackInspector03", "Ruck
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AssignmentRedunceyChecker04", "AssignmentRedunceyChecker04\AssignmentRedunceyChecker04.pyproj", "{FDF61713-D761-46F9-88B3-ADB9330DCA49}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CrateMovingSimulator05", "CrateMovingSimulator05\CrateMovingSimulator05.pyproj", "{2C9A4E3F-5145-45C7-9D98-19CEA763009A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SharedLogic", "SharedLogic\SharedLogic.pyproj", "{85D261A9-2EFB-45DB-ACA2-235D3DD4A752}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,10 @@ Global
 		{DD0B0879-1A63-484B-B877-0589230A6431}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDF61713-D761-46F9-88B3-ADB9330DCA49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FDF61713-D761-46F9-88B3-ADB9330DCA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C9A4E3F-5145-45C7-9D98-19CEA763009A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C9A4E3F-5145-45C7-9D98-19CEA763009A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85D261A9-2EFB-45DB-ACA2-235D3DD4A752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85D261A9-2EFB-45DB-ACA2-235D3DD4A752}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

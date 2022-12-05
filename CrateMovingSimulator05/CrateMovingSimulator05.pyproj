@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>fdf61713-d761-46f9-88b3-adb9330dca49</ProjectGuid>
+    <ProjectGuid>2c9a4e3f-5145-45c7-9d98-19cea763009a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>AssignmentRedunceyChecker04.py</StartupFile>
-    <SearchPath>
-    </SearchPath>
+    <StartupFile>CrateMovingSimulator05.py</StartupFile>
+    <SearchPath>..\SharedLogic</SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>AssignmentRedunceyChecker04</Name>
-    <RootNamespace>AssignmentRedunceyChecker04</RootNamespace>
+    <Name>CrateMovingSimulator05</Name>
+    <RootNamespace>CrateMovingSimulator05</RootNamespace>
+    <IsWindowsApplication>False</IsWindowsApplication>
     <InterpreterId>Global|PythonCore|3.11</InterpreterId>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
@@ -22,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="AssignmentRedunceyChecker04.py" />
+    <Compile Include="CrateMovingSimulator05.py" />
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="Global|PythonCore|3.11" />

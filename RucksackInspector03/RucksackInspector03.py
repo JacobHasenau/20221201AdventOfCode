@@ -1,10 +1,6 @@
 from aifc import Error
-from ast import Num
-from audioop import reverse
 from math import floor
 from os.path import exists
-from pickle import TRUE
-from tokenize import group
 
 class Occurence:
     def __init__(self, item, occurenceFrequency):

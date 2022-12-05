@@ -2,15 +2,16 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>fdf61713-d761-46f9-88b3-adb9330dca49</ProjectGuid>
+    <ProjectGuid>85d261a9-2efb-45db-aca2-235d3dd4a752</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>AssignmentRedunceyChecker04.py</StartupFile>
+    <StartupFile>SharedLogic.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>AssignmentRedunceyChecker04</Name>
-    <RootNamespace>AssignmentRedunceyChecker04</RootNamespace>
+    <Name>SharedLogic</Name>
+    <RootNamespace>SharedLogic</RootNamespace>
+    <IsWindowsApplication>False</IsWindowsApplication>
     <InterpreterId>Global|PythonCore|3.11</InterpreterId>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
@@ -22,7 +23,10 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="AssignmentRedunceyChecker04.py" />
+    <Compile Include="__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SharedLogic.py" />
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="Global|PythonCore|3.11" />
