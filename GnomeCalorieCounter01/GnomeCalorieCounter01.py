@@ -14,7 +14,7 @@ def gnomeSort(gnome):
 
 print("Welcome to gnome snack calorie counter.")
 
-fileIsValid = False;
+fileIsValid = False
 inputFilePath = ""
 
 while not fileIsValid:
